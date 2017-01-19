@@ -1,0 +1,173 @@
+CPSC131 Project3 raw data file
+
+Aaron,Captain America: Civil War
+Abhyuday,Zootopia
+Abraham,Finding Dory
+Adam,The Jungle Book (2016)
+Ahmed,Batman v Superman: Dawn of Justice
+Alecsander,The Secret Life of Pets
+Alex,Deadpool
+Alexander,Suicide Squad
+Alexis,The Mermaid (Mei ren yu)
+Allen,X-Men: Apocalypse
+Allison,Kung Fu Panda 3
+Anas,Warcraft
+Andrea,Jason Bourne
+Andrew,Ice Age: Collision Course
+Angad,Independence Day: Resurgence
+Anika,Monster Hunt
+Animesh,The Legend of Tarzan
+Anthony,The Angry Birds Movie
+Araceli,Star Trek Beyond
+Armando,Now You See Me 2
+Arnold,The Conjuring 2
+Arshdeep,Alice Through the Looking Glass
+Arshya,Teenage Mutant Ninja Turtles: Out of the Shadows
+Asad,Miss Peregrine's Home for Peculiar Children
+Beren,The BFG
+Bill,Ghostbusters (2016)
+Brandon,Central Intelligence
+Brenda,Me Before You
+Brian,London Has Fallen
+Bryan,The Monkey King 2 in 3D
+Burke,Sully
+Caesar,Bad Moms
+Chaekyoung,The Divergent Series: Allegiant
+Chris,Bridget Jones's Baby
+Christian,The Huntsman: Winter's War
+Christopher,Storks
+Cirjeffrey,The Magnificent Seven (2016)
+Connor,Ip Man 3
+Cory,Inferno
+Cuong,Don't Breathe
+Cyrus,Gods of Egypt
+Daniel,Lights Out
+Darren,Pete's Dragon (2016)
+Dat,Sausage Party
+David,Doctor Strange
+Davis,Detective Chinatown (Tang ren jie tan an)
+DiemHuong,The Girl on the Train (2016)
+Duy,Ride Along 2
+Eddie,The Shallows
+Edgar,The Purge: Election Year
+Elias,How to Be Single
+Elisabeth,The 5th Wave
+Emily,Mechanic: Resurrection
+Enrique,10 Cloverfield Lane
+Erik,Neighbors 2: Sorority Rising
+Errict,Deepwater Horizon
+Evan,Jack Reacher: Never Go Back
+Faraj,The Little Prince
+Fares,Dirty Grandpa
+Finn,Ben-Hur (2016)
+Frank,Money Monster
+Gabriel,My Big Fat Greek Wedding 2
+Gary,Train to Busan
+Gordon,Sultan
+Gregory,The Accountant
+Grigor,War Dogs
+Gustavo,Nerve
+Gyromee,The Boss
+Hannah,Shin Godzilla
+Hector,Mike and Dave Need Wedding Dates
+Henry,Miracles from Heaven
+Hsueh,13 Hours: The Secret Soldiers of Benghazi
+Hunter,Trolls
+Hye,Kubo and the Two Strings
+Inah,The Boy (2016)
+Ismael,Hail, Caesar!
+Jacob,Boo! A Madea Halloween
+Jaemin,L.O.R.D: Legend of Ravaging Dynasties
+Jake,Zoolander 2
+James,Barbershop: The Next Cut
+Jasem,The Finest Hours
+Jasmin,Ouija: Origin of Evil
+Jason,Eddie the Eagle
+Jay,Risen
+Jayro,Blair Witch
+Jennifer,The Witch
+Jens,The Forest
+Jeremy,Absolutely Fabulous: The Movie
+Jesus,The Nice Guys
+Jimmy,Mother's Day
+Joel,The Wild Life (2016)
+John,When the Bough Breaks
+Jonathan,Fan
+Jordan,M.S. Dhoni: The Untold Story
+Jose,Florence Foster Jenkins
+Joshua,Hell or High Water
+Justin,The Brothers Grimsby
+Katelyn,Race (2016)
+Kevin,Free State of Jones
+Khanh,Triple 9
+Kian,Whiskey Tango Foxtrot
+Kyle,Solace
+Laura,A Monster Calls
+Leah,Snowden
+Lily,Fifty Shades of Black
+Luis,God's Not Dead 2
+Marcos,Keanu
+Marek,El Clan
+Mark,Nine Lives (2016)
+Marzia,Middle School: The Worst Years of My Life
+Matthew,The Choice
+MengShen,Eye in the Sky
+Mevin,Regression
+Momtaz,Neerja
+Mortaza,Masterminds (2016)
+Nan,Keeping Up with the Joneses
+Nathan,Norm of the North
+Nelson,Pride and Prejudice and Zombies
+Nicholas,The Light Between Oceans
+Oscar,The Infiltrator
+Paul,Kapoor & Sons - Since 1921
+Payam,Criminal (2016)
+Peter,Hello, My Name is Doris
+Pitambar,Hardcore Henry
+Po,The Other Side of the Door
+Raphael,Love & Friendship
+Rayce,The Take (2016)
+Raymond,Sing Street
+Rene,The Man Who Knew Infinity
+Richard,No Manches Frida
+Robert,Cafe Society
+Ruby,Ae Dil Hai Mushkil
+Ryan,The Darkness
+Sadun,The Perfect Match
+Saleem,Our Kind of Traitor
+Samantha,Queen of Katwe
+Sameera,Ratchet & Clank
+Samuel,The Lobster (US Release)
+Sarah,Morgan
+Sergio,The Beatles: Eight Days a Week - The Touring Years
+ShihMin,A Beautiful Planet
+Shijie,A Bigger Splash
+Shrinithi,The Young Messiah
+Simon,Midnight Special
+Sri,Captain Fantastic
+Stacey,Hunt for the Wilderpeople
+Steven,Hands of Stone
+Stewart,Men & Chicken
+Su,The Meddler
+Suchartee,A Hologram for the King
+Sujit,Swiss Army Man
+Susmitha,Kabali
+Therese,Where to Invade Next
+Thomas,Max Steel
+Timothy,Batman: The Killing Joke
+Ting,Naam Hai Akira
+Tyler,Indignation
+Viet,Everybody Wants Some!!
+Vimean,Maggie's Plan
+Vincent,The Program (2016)
+Wellson,Green Room
+Wesley,Compadres
+William,Anthropoid
+Xianghui,Miles Ahead
+Xuan,Hillsong - Let Hope Rise
+YeRham,Equals
+Yi,Demolition
+YiFarn,The Dressmaker
+Ying,Busco Novio Para Mi Mujer
+Yunwei,A Perfect Day
+Yushuo,Desierto

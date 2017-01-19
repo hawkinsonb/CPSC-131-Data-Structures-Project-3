@@ -1,0 +1,173 @@
+CPSC131 Project3 raw data file
+
+Marzia,Middle School: The Worst Years of My Life
+Luis,God's Not Dead 2
+Enrique,10 Cloverfield Lane
+Araceli,Star Trek Beyond
+Grigor,War Dogs
+Nelson,Pride and Prejudice and Zombies
+Aaron,Captain America: Civil War
+Katelyn,Race (2016)
+Gustavo,Nerve
+Jasem,The Finest Hours
+Ryan,The Darkness
+Finn,Ben-Hur (2016)
+Jacob,Boo! A Madea Halloween
+Duy,Ride Along 2
+Xianghui,Miles Ahead
+Stacey,Hunt for the Wilderpeople
+Chris,Bridget Jones's Baby
+Anika,Monster Hunt
+Payam,Criminal (2016)
+Jason,Eddie the Eagle
+Brandon,Central Intelligence 	WB
+Evan,Jack Reacher: Never Go Back
+Anthony,The Angry Birds Movie
+Nicholas,The Light Between Oceans
+Angad,Independence Day: Resurgence
+Faraj,The Little Prince
+Robert,Cafe Society
+Arshya,Teenage Mutant Ninja Turtles: Out of the Shadows
+Burke,Sully
+Po,The Other Side of the Door
+Shrinithi,The Young Messiah
+Khanh,Triple 9
+Christopher,Storks
+Sri,Captain Fantastic
+Jonathan,Fan
+Rayce,The Take (2016)
+Cory,Inferno
+Kevin,Free State of Jones
+Tyler,Indignation
+Elisabeth,The 5th Wave
+Wesley,Compadres
+Daniel,Lights Out 	WB
+Jasmin,Ouija: Origin of Evil
+Rene,The Man Who Knew Infinity
+Abraham,Finding Dory
+Jay,Risen
+Ruby,Ae Dil Hai Mushkil
+Jose,Florence Foster Jenkins
+Cuong,Don't Breathe
+Alexis,The Mermaid (Mei ren yu)
+Errict,Deepwater Horizon
+William,Anthropoid
+Gyromee,The Boss
+Mortaza,Masterminds (2016)
+Ismael,Hail, Caesar!
+Peter,Hello, My Name is Doris
+Davis,Detective Chinatown (Tang ren jie tan an)
+Laura,A Monster Calls
+Susmitha,Kabali
+Asad,Miss Peregrine's Home for Peculiar Children
+Bryan,The Monkey King 2 in 3D
+Cirjeffrey,The Magnificent Seven (2016)
+Marek,El Clan
+Henry,Miracles from Heaven
+Thomas,Max Steel
+Alex,Deadpool
+Adam,The Jungle Book (2016)
+Fares,Dirty Grandpa
+James,Barbershop: The Next Cut 	WB
+MengShen,Eye in the Sky
+Erik,Neighbors 2: Sorority Rising
+Sameera,Ratchet & Clank
+Caesar,Bad Moms
+Jayro,Blair Witch
+Stewart,Men & Chicken
+Jens,The Forest
+Su,The Meddler
+Beren,The BFG
+Mevin,Regression
+Matthew,The Choice
+Gabriel,My Big Fat Greek Wedding 2
+Nathan,Norm of the North
+Paul,Kapoor & Sons - Since 1921
+Yi,Demolition
+Chaekyoung,The Divergent Series: Allegiant
+Jesus,The Nice Guys
+Jennifer,The Witch
+Hannah,Shin Godzilla
+Inah,The Boy (2016)
+Anas,Warcraft
+Vincent,The Program (2016)
+Yushuo,Desierto
+Ying,Busco Novio Para Mi Mujer
+Samantha,Queen of Katwe
+Ahmed,Batman v Superman: Dawn of Justice
+Armando,Now You See Me 2
+Sadun,The Perfect Match
+Vimean,Maggie's Plan
+Connor,Ip Man 3
+DiemHuong,The Girl on the Train (2016)
+Christian,The Huntsman: Winter's War
+Emily,Mechanic: Resurrection
+Frank,Money Monster
+Marcos,Keanu 	WB
+Steven,Hands of Stone
+Pitambar,Hardcore Henry
+Jaemin,L.O.R.D: Legend of Ravaging Dynasties
+Viet,Everybody Wants Some!!
+Cyrus,Gods of Egypt
+ShihMin,A Beautiful Planet
+Joel,The Wild Life (2016)
+Gregory,The Accountant
+YiFarn,The Dressmaker
+Samuel,The Lobster (US Release)
+Brian,London Has Fallen
+YeRham,Equals
+Yunwei,A Perfect Day
+Sarah,Morgan
+Hector,Mike and Dave Need Wedding Dates
+Suchartee,A Hologram for the King
+Therese,Where to Invade Next
+Allison,Kung Fu Panda 3
+Andrew,Ice Age: Collision Course
+Kian,Whiskey Tango Foxtrot
+Arshdeep,Alice Through the Looking Glass
+Joshua,Hell or High Water
+Lily,Fifty Shades of Black
+Jordan,M.S. Dhoni: The Untold Story
+Sergio,The Beatles: Eight Days a Week - The Touring Years
+Saleem,Our Kind of Traitor
+Justin,The Brothers Grimsby
+Gary,Train to Busan
+Andrea,Jason Bourne
+Gordon,Sultan
+Allen,X-Men: Apocalypse
+Simon,Midnight Special
+Hunter,Trolls
+Oscar,The Infiltrator
+David,Doctor Strange
+Abhyuday,Zootopia
+Raphael,Love & Friendship
+Richard,No Manches Frida
+Momtaz,Neerja
+Sujit,Swiss Army Man
+Jake,Zoolander 2
+Leah,Snowden
+Nan,Keeping Up with the Joneses
+Elias,How to Be Single 	WB
+Hsueh,13 Hours: The Secret Soldiers of Benghazi
+Darren,Pete's Dragon (2016)
+Ting,Naam Hai Akira
+Timothy,Batman: The Killing Joke
+Kyle,Solace
+Brenda,Me Before You 	WB
+Wellson,Green Room
+Jeremy,Absolutely Fabulous: The Movie
+Edgar,The Purge: Election Year
+Arnold,The Conjuring 2 	WB
+Eddie,The Shallows
+Mark,Nine Lives (2016)
+Raymond,Sing Street
+Xuan,Hillsong - Let Hope Rise
+Alecsander,The Secret Life of Pets
+Jimmy,Mother's Day
+Shijie,A Bigger Splash
+John,When the Bough Breaks
+Hye,Kubo and the Two Strings
+Bill,Ghostbusters (2016)
+Dat,Sausage Party
+Alexander,Suicide Squad
+Animesh,The Legend of Tarzan
